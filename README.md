@@ -1,4 +1,4 @@
-# API para gerenciamento de Filmes
+# API para gerenciamento de entregadores
 
 ## Instruções para colocar em operação
 
